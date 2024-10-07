@@ -1,0 +1,14 @@
+.jauge{
+    width: 25%;
+    height: auto;
+}
+#apropo{
+    width: 70%;
+    height: 35%;
+}
+hr{
+    color: blue;
+}
+ul {
+  list-style-type : none;
+}
